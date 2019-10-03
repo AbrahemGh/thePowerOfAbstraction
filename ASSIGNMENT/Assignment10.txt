@@ -1,0 +1,4 @@
+﻿- Write a program to read a line from the command line and count the number of
+occurrences of word “Hello” and print the locations of each occurrence of “Hello” in the
+String.
+- Replace all ‘h’ letters in the String with ‘*’

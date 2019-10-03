@@ -1,0 +1,25 @@
+﻿Write a program to print the following shape using loops (Write it 2 times; one using for loop, the
+other one using while loop)
+8
+88
+888
+8888
+88888
+888888
+8888888
+88888888
+888888888
+8888888888
+88888888888
+Modify it so that the lines that has even number of ‘8’ is not displayed. i.e.
+8
+
+888
+
+88888
+
+8888888
+
+888888888
+
+88888888888

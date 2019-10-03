@@ -1,0 +1,6 @@
+﻿Modify the Java program in Assignment #7 so that it gets the input from the command line. i.e.
+java MyClass 10 à it means that print(int x) will be invoked
+java MyClass Hello à it means that print (String x) will be invoked
+and so on….
+If the number of command line arguments is more than 3 or not matching one of the print
+methods, then print a message to the user that “Input is Wrong”

@@ -1,0 +1,6 @@
+﻿Write a class that has the method print with the following variations:
+- print (int x): write “this is integer “ followed by the value
+- print (String x): write “this is String” followed by the value
+- print (int x, int y): write x repeated y times
+- print (int x, int y, int z): write x repeated y times on a line, and repeat the line z times
+Test the above functionality from the main function.

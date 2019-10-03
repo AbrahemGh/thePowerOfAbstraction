@@ -1,0 +1,5 @@
+﻿Write a program to read two integer from the keyboard then read an operator ‘+’, ‘-‘, ‘*’, ‘/’, ‘%’.
+Perform the operation on the two integers according to the input operator. Do it using if, if-else
+first, then using switch statement. In case the entered operator is incorrect alarm the user that the
+entered operator is incorrect and ask the user to enter a correct operator. The program will continue
+working until the user enters ‘Z’.

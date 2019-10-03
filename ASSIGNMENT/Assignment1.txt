@@ -1,0 +1,14 @@
+﻿Define a new class called "Person". Modify your "Person" class to add a constructor. Make the
+constructor output the text "Constructor running!". Modify the Person class so that it has another
+constructor, in addition to the constructor it's already got. Make this second constructor accept a
+parameter called name of type String. Make this second constructor print the name parameter
+using System.out.println(). Modify your Person class so that it has a private instance variable
+called name of type String. In your second constructor, set the value of the "name" instance
+variable using the "name" parameter that you pass in. Remove the System.out.println()'s from the
+Person class. Methods are a way of making subroutines part of objects (by defining them in
+classes of course). Add a method to your Person class called "writeName". Make this method
+output the text "My name is " followed by the value of the name instance variable. Invoke (in
+other words run or call) this method in your main method. n prehistoric times, get and set
+methods (also known as getters and setters) were known as mutators and accessors. Add
+getName and setName methods to your class. Modify your main method to use getters and
+setters.
